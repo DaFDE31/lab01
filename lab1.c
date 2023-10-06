@@ -9,6 +9,7 @@ char* readString(char* fileName){
 
 char* mysteryExplode(const char* str){
     int len = strlen(str);
-    int strlen = (len * (len ));
+    int strlength = (len * (len+1 )/2);
+    //nfjsand;jklgasbdiupbgvarewakjct gndiufbogduy
     return NULL;
 }
